@@ -1,0 +1,3 @@
+# Install poppler manually: http://blog.alivate.com.au/poppler-windows/
+pdf2image
+pillow
